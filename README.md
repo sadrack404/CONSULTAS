@@ -8,8 +8,10 @@
 <p> Icones: https://icones.js.org/ </p>
 <p> Emojis: https://emojipedia.org/pt// </p>
 <p> Inspiração de design para sites: https://www.lapa.ninja/ </p>
-<p> Edicação de imagens, panfletos, (etc...): https://www.canva.com/ <p>
-<p> Paleta de cores: https://coolors.co/ <p>
+<p> Edicação de imagens, panfletos, (etc...): https://www.canva.com/ </p>
+<p> Paleta de cores: https://coolors.co/ </p>
+<p> Construtor visual: https://www.plasmic.app/ </p>
+<p> Gerador de animações CSS: https://keyframes.app/ </p>
 -
 -
 <h2> GIT 😼</h2>
