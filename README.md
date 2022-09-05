@@ -2,18 +2,40 @@
 
 <h2> Imagens 🖼️</h2>
 <p> Compactar imagens: https://tinypng.com/ </p>
+<p> Edicação de imagens, panfletos, (etc...): https://www.canva.com/ </p>
 -
 -
 <h2> Design 🎨</h2>
-<p> Icones: https://icones.js.org/ </p>
-<p> Emojis: https://emojipedia.org/pt// </p>
+
 <p> Inspiração de design para sites: https://www.lapa.ninja/ </p>
-<p> Edicação de imagens, panfletos, (etc...): https://www.canva.com/ </p>
-<p> Paleta de cores: https://coolors.co/ </p>
 <p> Construtor visual: https://www.plasmic.app/ </p>
 <p> Gerador de animações CSS: https://keyframes.app/ </p>
--
--
+
+<h3>Paleta de cores</h3>
+<ul>
+  <li> 
+    <p>Coolors : https://coolors.co/ </p>
+  </li>
+  <li> 
+    <p>Color Huntr:  https://colorhunt.co/ </p>
+  </li>
+  <li> 
+    <p>Web Gradients:  https://webgradients.com/ </p>
+  </li>
+</ul>
+<h3>Icones e Emojis</h3>
+<ul>
+  <li> 
+   <p> Icones: https://icones.js.org/ </p>
+  </li>
+  <li> 
+    <p> Emojis: https://emojipedia.org/pt// </p>
+  </li>
+  <li> 
+    <p> Font Awsome: https://fontawesome.com/ </p>
+  </li>
+</ul>
+
 <h2> GIT 😼</h2>
 <p> Ajuda com commits: https://gitexplorer.com/ </p>
 -
