@@ -44,3 +44,7 @@
 <p> Conversor de PDFs: https://www.ilovepdf.com/ </p>
 -
 -
+<h2> SEGURANÇA 👨‍💻</h2>
+<p> OWASP: https://owasp.org/ </p>
+
+
