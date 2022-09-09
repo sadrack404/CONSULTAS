@@ -36,6 +36,16 @@
   </li>
 </ul>
 
+<h3>Pré processadores CSS</h3>
+<ul>
+  <li> 
+    <p> Less: https://lesscss.org/ </p>
+  </li>
+   <li> 
+    <p> Sass: https://sass-lang.com/install </p>
+  </li>
+</ul>
+
 <h2> GIT 😼</h2>
 <p> Ajuda com commits: https://gitexplorer.com/ </p>
 -
