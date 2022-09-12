@@ -1,5 +1,7 @@
 <h1> Bloco de notas 📔  </h1>
 
+<h2> hack supremo : https://tinywow.com/ </h2>
+
 <h2> Imagens 🖼️</h2>
 <p> Compactar imagens: https://tinypng.com/ </p>
 <p> Edicação de imagens, panfletos, (etc...): https://www.canva.com/ </p>
